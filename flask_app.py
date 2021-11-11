@@ -7,7 +7,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def hello_world():
-    return 'Homepage ja'
+    return 'Hello from Pun'
 
 @app.route('/hello_user')
 def hello_matta():
