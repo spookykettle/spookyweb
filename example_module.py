@@ -1,3 +1,3 @@
 
-def getMattaName():
-    return "MAtta"
+def gethelloexample():
+    return "Hello example"
