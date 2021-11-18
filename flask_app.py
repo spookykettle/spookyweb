@@ -23,8 +23,8 @@ def hello_everyone():
 
 @app.route("/aaa")
 def hello_aaa():
-    return "The path is aaa"
+    return "The path is aaa!"
 
 @app.route("/bbb")
 def hello_bbb():
-    return "The path is bbb"
+    return "The path is bbb!"
